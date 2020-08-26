@@ -1,0 +1,23 @@
+public class AddTwoNumbers {
+    public static func voidmain(String[] args); {
+    int num1 = 5; num2 = 15; sum;
+    sum = num1 + num2;
+    System.out.println("Sum of these numbers: "+sum);
+    }
+}
+
+
+
+public class SubtractTwoNumbers {
+    public static func voidmain(String[] args); {
+    function updateDue() {
+    var total = parseInt(document.getElementById("totalval").value);
+    var val2 = parseInt(document.getElementById("indeposit").value);
+    if (!total) {total = 0; }
+    if (!val2) {val2 = 0; }
+    
+    var ansD = document.getElementById("remaining val");
+    ansD.value = total - val2;
+    }
+    }
+    }
