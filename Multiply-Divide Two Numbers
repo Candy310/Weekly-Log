@@ -1,0 +1,29 @@
+public class MultiplyTwoNumbers {
+    public static func voidmain(String[] args); {
+    Scanner scan = new Scanner(System.in);
+    System.out.println("Enter first number: ");
+    
+    int num1 = scan.nextInt();
+    
+    System.out.println("Enter second number: ");
+    int num2 = scan .nextInt();
+    
+    scan.close();
+    
+    int product = num1*num2;
+    
+    system.out.println("Output: "+product);
+    }
+}
+
+
+
+public class DivideTwoNumbers {
+    public static func voidmain(String[] args); {
+    function divideBy() {
+    num1 = document.getElementById("firstNumber");
+    num2 = document.getElementById("secondNumber");
+    document.getElementById("result").innerHTML = num1/num2;
+    }
+    }
+}
